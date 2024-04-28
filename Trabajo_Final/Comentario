@@ -1,0 +1,5 @@
+El dataset de estudio es una playlist de Spotify y se pretende poder estimar si un tema nuevo será del gusto de la persona que tiene esta playlist activa. Para ello se aplicarán diferentes técnicas de análisis de datos y poder obtener las features más representativas y poder aplicar diferentes algoritmos de machine learning.
+
+Realizado en conjunto con:
+- Francisco Rassi
+- Gonzalo Avalos Ribas
